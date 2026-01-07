@@ -39,17 +39,6 @@ A **fully connected feed-forward neural network** is implemented using PyTorch:
 
 ---
 
-## ⚙️ Technologies Used
-
-- Python
-- PyTorch
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-
----
-
 ## 🏗️ Workflow
 
 1. Import required libraries
